@@ -1,6 +1,6 @@
 # Relogio Digital 
 
-![preview](../Relogio%20digital/assets/img/preview.png)
+![preview](./assets/img/preview.png)
 
 > Relogio Digital
 Projeto construido com intuito de adentrar a linguagem JavaScript acompanhada de codigos HTML e CSS.
